@@ -12,6 +12,6 @@ Show albums thumbnail image in TableView
   use<br /> 
   albums = PHAssetCollection.fetchAssetCollections(with: .album, subtype: .any, options: nil)<br /> 
   
- 
-the function blurViewValue<br /> 
+<br>
+blurViewValue   
 referenced here https://github.com/Ramotion/preview-transition.git<br /> 
